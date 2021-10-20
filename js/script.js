@@ -7,7 +7,7 @@
 const firstName = prompt("Qual è il tuo nome?");
 const lastName = prompt("Qual è il tuo cognome?");
 const favColor = prompt("Qual è il tuo colore preferito?");
-const pwd = firstName + lastName + favColor + "21"
+const pwd = firstName + lastName + favColor + "21";
 
 //costante che definisce la lunghezza della password, bonus
 const pwdLength = pwd.length;
